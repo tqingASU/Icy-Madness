@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "30724636-bc08-4b46-b861-1419388f83f2",
+            "Value": {
+                "id": "73de9f90-d74d-4e16-bea9-5d339e7e947d",
+                "resourcePath": "sprites\\spr_obstacle_rock_02\\spr_obstacle_rock_02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "39060131-5e75-437a-b395-46731812d1fe",
             "Value": {
                 "id": "55abf2e2-8654-4622-ad8b-893ba5dbf431",
@@ -300,6 +308,14 @@
                 "id": "584c2e03-974f-4a0f-a2cc-3383250b6976",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "e8a6f6c1-2c81-449c-8cd8-f73ad2699e8c",
+            "Value": {
+                "id": "87df664c-5e43-40b6-892d-aa9f8f33e7a7",
+                "resourcePath": "sprites\\spr_obstacle_rock_03\\spr_obstacle_rock_03.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
