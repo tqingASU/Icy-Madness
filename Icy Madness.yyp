@@ -170,7 +170,7 @@
             "Key": "7446f88e-665d-457f-acea-c7a2751dde77",
             "Value": {
                 "id": "c7817c3d-e324-40b6-b998-1cdbc3f95ab6",
-                "resourcePath": "objects\\obj_obstacle_trees\\obj_obstacle_trees.yy",
+                "resourcePath": "objects\\obj_obstacle_tree_01\\obj_obstacle_tree_01.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -252,6 +252,14 @@
                 "id": "c4b3c5ec-de7b-4851-90bd-c9b242a48a61",
                 "resourcePath": "views\\ab763f6f-e495-4cc2-a401-a8231e1350e8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b7736d7f-92e6-439c-83da-6b17f2f24b15",
+            "Value": {
+                "id": "16d397b3-396a-4edd-a9b7-8396ff3361f9",
+                "resourcePath": "objects\\obj_obstacle_tree_02\\obj_obstacle_tree_02.yy",
+                "resourceType": "GMObject"
             }
         },
         {

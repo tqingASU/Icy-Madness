@@ -1,8 +1,8 @@
 {
-    "id": "7446f88e-665d-457f-acea-c7a2751dde77",
+    "id": "b7736d7f-92e6-439c-83da-6b17f2f24b15",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_obstacle_trees",
+    "name": "obj_obstacle_tree_02",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": true,
-    "spriteId": "b8a73efe-5698-4311-b1dd-9bf27667ae9e",
+    "spriteId": "1ef90c79-d4a0-4d42-a5c0-a92e05059ade",
     "visible": true
 }
