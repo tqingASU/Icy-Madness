@@ -2,7 +2,7 @@
     "id": "ec71e9be-42d7-40b2-b8ec-79b412d39ab8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_obstacle_rock",
+    "name": "obj_obstacle_rock_01",
     "eventList": [
         
     ],
