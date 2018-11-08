@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1ef90c79-d4a0-4d42-a5c0-a92e05059ade",
+            "Value": {
+                "id": "2cc6e037-5722-4679-ba77-b6666a232c4b",
+                "resourcePath": "sprites\\spr_obstacle_tree_02\\spr_obstacle_tree_02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1fcc6acc-1bda-415a-ab4f-10c8eb720fa6",
             "Value": {
                 "id": "e06a5a89-12a1-4211-8db6-2857fa537758",
@@ -130,7 +138,7 @@
             "Key": "49ce576b-f66d-4dcc-92c4-998c01c17ca2",
             "Value": {
                 "id": "e49e5243-fcd0-4a29-9104-7f1b78410a72",
-                "resourcePath": "sprites\\spr_obstacle_rock\\spr_obstacle_rock.yy",
+                "resourcePath": "sprites\\spr_obstacle_rock_01\\spr_obstacle_rock_01.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -250,7 +258,7 @@
             "Key": "b8a73efe-5698-4311-b1dd-9bf27667ae9e",
             "Value": {
                 "id": "d961b961-59be-4cc7-9a62-f3aa18ca47d8",
-                "resourcePath": "sprites\\spr_obstacle_trees\\spr_obstacle_trees.yy",
+                "resourcePath": "sprites\\spr_obstacle_tree_01\\spr_obstacle_tree_01.yy",
                 "resourceType": "GMSprite"
             }
         },
