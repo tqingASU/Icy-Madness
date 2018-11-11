@@ -39,22 +39,6 @@
             }
         },
         {
-            "Key": "0ebbc434-5f47-4761-aad1-65259f18457f",
-            "Value": {
-                "id": "cadc640d-1740-4fb8-8b66-62f8af9403e7",
-                "resourcePath": "objects\\obj_trap_tornado\\obj_trap_tornado.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "164d32bd-7ee0-4d6b-b2b2-ffec833ec1fc",
-            "Value": {
-                "id": "250c30c3-09c9-4aa4-915f-6f107ae4195d",
-                "resourcePath": "objects\\obj_trap_bog\\obj_trap_bog.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "188e76f1-9f44-43af-8abf-038a13224b8c",
             "Value": {
                 "id": "ae93a502-5039-4985-824b-017100b7b1fc",
@@ -103,34 +87,10 @@
             }
         },
         {
-            "Key": "2ee1ce81-09a4-41dd-94f0-1a3ceb060233",
-            "Value": {
-                "id": "aafc8ace-49c0-43cc-a612-8ee1a87ccaf7",
-                "resourcePath": "sprites\\spr_trap_bog\\spr_trap_bog.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "30724636-bc08-4b46-b861-1419388f83f2",
             "Value": {
                 "id": "73de9f90-d74d-4e16-bea9-5d339e7e947d",
                 "resourcePath": "sprites\\spr_obstacle_rock_02\\spr_obstacle_rock_02.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "39060131-5e75-437a-b395-46731812d1fe",
-            "Value": {
-                "id": "55abf2e2-8654-4622-ad8b-893ba5dbf431",
-                "resourcePath": "sprites\\spr_door_exit\\spr_door_exit.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "40ba1403-2c9c-4a0d-8872-743822892e66",
-            "Value": {
-                "id": "187c122b-d79b-4ff0-9cfe-97ce31ad1dde",
-                "resourcePath": "sprites\\spr_trap_tornado\\spr_trap_tornado.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -140,14 +100,6 @@
                 "id": "e49e5243-fcd0-4a29-9104-7f1b78410a72",
                 "resourcePath": "sprites\\spr_obstacle_rock_01\\spr_obstacle_rock_01.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4b699705-a16e-4bd2-8c81-42d5e3072fc3",
-            "Value": {
-                "id": "355b6499-3690-45af-bc6f-4ac0da81b75e",
-                "resourcePath": "objects\\obj_door_enter\\obj_door_enter.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -287,14 +239,6 @@
             }
         },
         {
-            "Key": "c1686c28-f3dc-46e8-b9c0-6507410ec1eb",
-            "Value": {
-                "id": "cbab2d89-275b-4f22-a48a-e3b5f3049495",
-                "resourcePath": "objects\\obj_door_exit\\obj_door_exit.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "c2d63d91-dbcd-49d6-ae1e-613366f2fdfb",
             "Value": {
                 "id": "efba3153-039b-41c0-bf23-98d08cb09ddc",
@@ -308,14 +252,6 @@
                 "id": "7b2230d9-d2ca-465a-9ce2-86982d83e5b6",
                 "resourcePath": "rooms\\rm_level_1\\rm_level_1.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "c7bb615c-814c-494b-bfeb-f4bbb9dbb32e",
-            "Value": {
-                "id": "570fd37c-35c4-44e8-a9ec-62240472ed84",
-                "resourcePath": "sprites\\spr_door_enter\\spr_door_enter.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
