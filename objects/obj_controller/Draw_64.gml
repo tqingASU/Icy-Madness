@@ -19,6 +19,6 @@ else
 {
 	draw_set_color(c_black)
 	draw_set_halign(fa_center)
-	draw_text(room_width/2, room_height/2, "GAME OVER!")
-	draw_text(room_width/2, (room_height/2)+20, "Final Score: " + string(score))
+	draw_text(camera_get_view_width(view_camera[0])/2, camera_get_view_height(view_camera[0])/2, "GAME OVER!")
+	draw_text(camera_get_view_width(view_camera[0])/2, (camera_get_view_height(view_camera[0])/2)+20, "Final Score: " + string(score))
 }
