@@ -57,6 +57,24 @@ else{
 	y = predictedY - sign(yVelocity);
 }
 
+//room boundaries
+if(x <= sprite_width/2)
+{
+	x = sprite_width/2
+}
+if(x >= (room_width - (sprite_width/2)))
+{
+	x = room_width - (sprite_width/2)
+}
+if(y <= sprite_width/2)
+{
+	y = sprite_width/2
+}
+if(y >= (room_width - (sprite_width/2)))
+{
+	y = room_width - (sprite_width/2)
+}
+
 // idle state animation
 if((down-up == 0) && (right-left == 0)){
 	image_speed = 0
