@@ -13,6 +13,16 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "2bc9a2a8-327b-4016-807e-784510343f05"
+        },
+        {
+            "id": "cea7b2e0-4d51-4bf6-b894-017f2f45af56",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "2bc9a2a8-327b-4016-807e-784510343f05"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -42,9 +52,23 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "variable_name",
+            "value": "0.5",
+            "varName": "slideDelay",
             "varType": 0
+        },
+        {
+            "id": "77de0a64-7bd1-4206-a255-c23ba5365ab2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "canSlide",
+            "varType": 3
         }
     ],
     "solid": false,
