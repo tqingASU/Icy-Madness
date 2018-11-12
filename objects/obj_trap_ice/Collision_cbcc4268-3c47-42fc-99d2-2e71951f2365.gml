@@ -3,7 +3,7 @@
 if(canSlide == true){
 	canSlide = false;
 	
-	walkSpeed *= 2;
+	obj_player.walkSpeed *= 2;
 	
 	alarm[0] = damageDelay*room_speed;
 }
