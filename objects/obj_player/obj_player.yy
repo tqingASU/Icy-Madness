@@ -33,6 +33,26 @@
             "enumb": 53,
             "eventtype": 6,
             "m_owner": "b857ffcd-77ac-4081-b67a-a8a62bf45af4"
+        },
+        {
+            "id": "d50edb80-bb43-487b-93af-c497480b2895",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "b857ffcd-77ac-4081-b67a-a8a62bf45af4"
+        },
+        {
+            "id": "b6fb3597-43a3-4128-a6f3-d60a503ca68b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 82,
+            "eventtype": 5,
+            "m_owner": "b857ffcd-77ac-4081-b67a-a8a62bf45af4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -121,6 +141,62 @@
             "value": "0",
             "varName": "anim_speed",
             "varType": 0
+        },
+        {
+            "id": "572975f7-5bdb-41b1-b9d2-5cd475cd1df2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "canShoot",
+            "varType": 3
+        },
+        {
+            "id": "91c2c5fa-3175-437e-90c2-a9c7593dc7b0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "shotDelay",
+            "varType": 0
+        },
+        {
+            "id": "66557f81-f2ab-4060-9b70-bcdce3a37fb7",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "12",
+            "varName": "clip",
+            "varType": 0
+        },
+        {
+            "id": "0b51e863-9fe9-4339-aa17-55d068f5cc29",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "reloading",
+            "varType": 3
         }
     ],
     "solid": false,
