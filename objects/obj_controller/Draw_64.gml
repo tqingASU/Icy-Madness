@@ -5,6 +5,15 @@ if(game_state == 0)
 	draw_set_color(c_black)
 	draw_text(100,80,"Score: " + string(score))
 	draw_text(100,100,"Health: " + string(health))
+	if(obj_player.reloading = true)
+	{
+		draw_text(100,120,"Clip: reloading")
+	}
+	else
+	{
+		draw_text(100,120,"Clip: " + string(obj_player.clip))
+	}
+	
 }
 else
 {
