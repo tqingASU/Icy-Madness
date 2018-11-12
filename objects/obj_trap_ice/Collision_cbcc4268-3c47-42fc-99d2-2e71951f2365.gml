@@ -1,3 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-obj_player.walkSpeed = obj_player.walkSpeed*3;
+if(canSlide == true){
+	canSlide = false;
+	
+	obj_player.walkSpeed *= 2;
+	
+	alarm[0] = slideDelay*room_speed;
+}
