@@ -29,8 +29,33 @@ var attack = mouse_check_button(ev_left_button)*/
 xVelocity = (right - left) * walkSpeed;
 yVelocity = (down - up) * walkSpeed;
 
-x += xVelocity;
-y += yVelocity;
+//x += xVelocity;
+//y += yVelocity;
+
+var predictedX = x + xVelocity;
+var predictedY = y + yVelocity;
+
+if(!place_meeting(predictedX, y, obj_collidable)){
+	x += xVelocity;
+}
+else{
+	predictedX = x;
+	while(!place_meeting(predictedX, y, obj_collidable)){
+		predictedX += sign(xVelocity);
+	}
+	x = predictedX - sign(xVelocity);
+}
+
+if(!place_meeting(x, predictedY, obj_collidable)){
+	y += yVelocity;
+}
+else{
+	predictedY = y;
+	while(!place_meeting(x, predictedY, obj_collidable)){
+		predictedY += sign(yVelocity);
+	}
+	y = predictedY - sign(yVelocity);
+}
 
 // idle state animation
 if((down-up == 0) && (right-left == 0)){
