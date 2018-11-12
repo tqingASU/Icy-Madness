@@ -18,7 +18,6 @@ var up = keyboard_check(ord("W"))
 var down = keyboard_check(ord("S"))
 var left = keyboard_check(ord("A"))
 var right = keyboard_check(ord("D"))
-var attack = mouse_check_button(ev_left_button)
 
 /*var up = keyboard_check(vk_up)
 var down = keyboard_check(vk_down)
@@ -35,6 +34,7 @@ yVelocity = (down - up) * walkSpeed;
 var predictedX = x + xVelocity;
 var predictedY = y + yVelocity;
 
+//collision prediction and movement
 if(!place_meeting(predictedX, y, obj_collidable)){
 	x += xVelocity;
 }
@@ -55,6 +55,24 @@ else{
 		predictedY += sign(yVelocity);
 	}
 	y = predictedY - sign(yVelocity);
+}
+
+//room boundaries
+if(x <= sprite_width/2)
+{
+	x = sprite_width/2
+}
+if(x >= (room_width - (sprite_width/2)))
+{
+	x = room_width - (sprite_width/2)
+}
+if(y <= sprite_width/2)
+{
+	y = sprite_width/2
+}
+if(y >= (room_width - (sprite_width/2)))
+{
+	y = room_width - (sprite_width/2)
 }
 
 // idle state animation
