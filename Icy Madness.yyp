@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "e5042376-f56a-4134-a9ba-f184310caf79",
+            "Value": {
+                "id": "8f810aba-ce9e-41cd-906d-9ef034f6ec27",
+                "resourcePath": "sounds\\sfx_spike_trap\\sfx_spike_trap.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e8a6f6c1-2c81-449c-8cd8-f73ad2699e8c",
             "Value": {
                 "id": "87df664c-5e43-40b6-892d-aa9f8f33e7a7",
