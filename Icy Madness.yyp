@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "2d8cd841-de4b-4afe-a41b-b746809f50ab",
+            "Value": {
+                "id": "4b6d22c4-ea0b-4957-8848-d819527e2699",
+                "resourcePath": "objects\\obj_spawnzombie\\obj_spawnzombie.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2e6a3f9e-a962-4e2f-9c64-d7a6d5aab5eb",
             "Value": {
                 "id": "a80eb702-a132-4d6b-b9ed-ef853a3a045a",
@@ -164,6 +172,14 @@
                 "id": "8f7d9c5c-6663-4a0b-a192-ad4028820d51",
                 "resourcePath": "views\\66a57fb6-a185-4b5b-9043-5590e064967d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6af80775-70de-4b08-9bea-e9799f7be308",
+            "Value": {
+                "id": "16bffd3a-fa60-49a3-a071-debbce114fd1",
+                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -276,6 +292,14 @@
                 "id": "e09bca71-87f7-4caa-a0c5-ee27ca92dc8e",
                 "resourcePath": "sprites\\bg_background\\bg_background.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9f95ae10-7996-4fc1-9459-a5ae8dfa1571",
+            "Value": {
+                "id": "3ab336fe-97cc-4151-82a9-d694269859b1",
+                "resourcePath": "objects\\obj_zombie\\obj_zombie.yy",
+                "resourceType": "GMObject"
             }
         },
         {
