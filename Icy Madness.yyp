@@ -215,6 +215,30 @@
             }
         },
         {
+            "Key": "8fc94c15-ca35-4f3f-b48b-73573a903cd5",
+            "Value": {
+                "id": "fdf27547-6503-42c4-ab16-94c56328b792",
+                "resourcePath": "objects\\obj_enemy_parent\\obj_enemy_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8ff1f2fd-f909-45c1-ba12-4ea4b5ffe13c",
+            "Value": {
+                "id": "08387b3f-e3b9-4e65-b935-585ec0b1ea1e",
+                "resourcePath": "sprites\\spr_wolf\\spr_wolf.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "92801b4e-03d7-45c7-8438-ff8a5ee39441",
+            "Value": {
+                "id": "d8b6e754-f8b0-4560-a38e-99ed864bcc9b",
+                "resourcePath": "objects\\obj_enemy_wolf\\obj_enemy_wolf.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "92b44de8-c2cf-483d-9136-3dedfad72918",
             "Value": {
                 "id": "d771926b-175c-48dd-9936-aac8360b5a13",
@@ -260,6 +284,14 @@
                 "id": "6e812fb4-4689-4cfe-bfad-87808bbabe9b",
                 "resourcePath": "views\\a187ce28-290f-4488-90e7-64162479ad63.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a5a47e73-e438-46c2-b914-dd9758f3fb67",
+            "Value": {
+                "id": "61de8527-6f5c-427c-8896-be348b67b5df",
+                "resourcePath": "objects\\obj_enemy_spawner\\obj_enemy_spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
