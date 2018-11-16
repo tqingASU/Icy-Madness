@@ -170,7 +170,7 @@
             "Key": "735b97ea-68b6-4d3f-9e66-0b47e2df9a89",
             "Value": {
                 "id": "9beedcfe-f30c-40ee-a410-6dbf905cea7e",
-                "resourcePath": "sounds\\sfx_gunshot\\sfx_gunshot.yy",
+                "resourcePath": "sounds\\sfx_player_gunshot\\sfx_player_gunshot.yy",
                 "resourceType": "GMSound"
             }
         },
