@@ -119,14 +119,6 @@
             }
         },
         {
-            "Key": "39a5fc8e-cf80-480b-b63f-3f1d06a3cd94",
-            "Value": {
-                "id": "52d577d3-7bef-45b8-a373-e89e1448d511",
-                "resourcePath": "rooms\\rm_start\\rm_start.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "49ce576b-f66d-4dcc-92c4-998c01c17ca2",
             "Value": {
                 "id": "e49e5243-fcd0-4a29-9104-7f1b78410a72",
@@ -183,13 +175,6 @@
             }
         },
         {
-<<<<<<< HEAD
-            "Key": "6aa90a91-38f6-4013-9ee2-f771ca1f44ca",
-            "Value": {
-                "id": "bd1bbd7f-5207-4d34-9666-9e20120e44c5",
-                "resourcePath": "rooms\\rm_win\\rm_win.yy",
-                "resourceType": "GMRoom"
-=======
             "Key": "6af80775-70de-4b08-9bea-e9799f7be308",
             "Value": {
                 "id": "16bffd3a-fa60-49a3-a071-debbce114fd1",
@@ -203,7 +188,6 @@
                 "id": "9beedcfe-f30c-40ee-a410-6dbf905cea7e",
                 "resourcePath": "sounds\\sfx_player_gunshot\\sfx_player_gunshot.yy",
                 "resourceType": "GMSound"
->>>>>>> master
             }
         },
         {
