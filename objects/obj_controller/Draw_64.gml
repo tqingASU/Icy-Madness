@@ -3,7 +3,7 @@
 switch(room)
 {
 	case rm_ice_age:
-	if(game_state == 0)
+	if(game_state == 0 && instance_exists(obj_player))
 	{
 		draw_set_color(c_black)
 		draw_text(100,80,"Score: " + string(score))
