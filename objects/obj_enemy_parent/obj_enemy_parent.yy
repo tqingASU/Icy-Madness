@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "8fc94c15-ca35-4f3f-b48b-73573a903cd5"
+        },
+        {
+            "id": "317cff7c-5881-427f-b06a-5590b08d686e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "8fc94c15-ca35-4f3f-b48b-73573a903cd5"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,34 +53,6 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "949a03d9-46ea-4bcb-b679-ad251554873e",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "xVelocity",
-            "varType": 0
-        },
-        {
-            "id": "08662e93-9a8f-47cb-a013-8d0481344cfb",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "yVelocity",
-            "varType": 0
-        },
-        {
             "id": "1a0bef9e-4cfc-4b0b-85f5-3743d1566461",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -82,7 +64,7 @@
             "resourceFilter": 1023,
             "value": "1",
             "varName": "hitPoints",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "358e7e18-84c5-4c60-a3c8-3c8f8aedd872",
@@ -127,7 +109,7 @@
             "varType": 0
         }
     ],
-    "solid": false,
+    "solid": true,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
