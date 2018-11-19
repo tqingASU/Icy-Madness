@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "00ffe025-a105-448d-ac75-ed11d16a462f",
+            "Value": {
+                "id": "e2633e86-ad5b-4d1b-95d7-a75e6dd6eb58",
+                "resourcePath": "sounds\\sfx_player_reload\\sfx_player_reload.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "062097ea-206b-40d6-8c60-0f9116e612df",
             "Value": {
                 "id": "1a637481-2cbb-4758-b0d1-70868094959c",
@@ -63,6 +71,14 @@
             }
         },
         {
+            "Key": "2224116b-8990-4e2a-9f16-18872e0c5add",
+            "Value": {
+                "id": "033bf601-26fd-4f76-8752-fc393b286f0a",
+                "resourcePath": "sounds\\sfx_player_walking\\sfx_player_walking.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2a0bb682-4f37-4388-8b97-754cb6f4e06a",
             "Value": {
                 "id": "4038b9b3-b875-43ab-89d3-1c7a5b1cbd15",
@@ -75,6 +91,14 @@
             "Value": {
                 "id": "8975762d-765d-49bc-b0c7-e10627dcdbde",
                 "resourcePath": "objects\\obj_trap_ice\\obj_trap_ice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2d8cd841-de4b-4afe-a41b-b746809f50ab",
+            "Value": {
+                "id": "4b6d22c4-ea0b-4957-8848-d819527e2699",
+                "resourcePath": "objects\\obj_spawnzombie\\obj_spawnzombie.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -159,11 +183,27 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "6aa90a91-38f6-4013-9ee2-f771ca1f44ca",
             "Value": {
                 "id": "bd1bbd7f-5207-4d34-9666-9e20120e44c5",
                 "resourcePath": "rooms\\rm_win\\rm_win.yy",
                 "resourceType": "GMRoom"
+=======
+            "Key": "6af80775-70de-4b08-9bea-e9799f7be308",
+            "Value": {
+                "id": "16bffd3a-fa60-49a3-a071-debbce114fd1",
+                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "735b97ea-68b6-4d3f-9e66-0b47e2df9a89",
+            "Value": {
+                "id": "9beedcfe-f30c-40ee-a410-6dbf905cea7e",
+                "resourcePath": "sounds\\sfx_player_gunshot\\sfx_player_gunshot.yy",
+                "resourceType": "GMSound"
+>>>>>>> master
             }
         },
         {
@@ -183,6 +223,14 @@
             }
         },
         {
+            "Key": "853e81bc-c326-45f8-8861-448dfed5819d",
+            "Value": {
+                "id": "242f1e69-112d-4bb2-aba9-63303480ffa9",
+                "resourcePath": "sounds\\sfx_ice_trap\\sfx_ice_trap.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8898fbe0-ea95-4e54-a085-047894cfe72f",
             "Value": {
                 "id": "122278f8-9810-4063-b7aa-7a4b0b259480",
@@ -196,6 +244,30 @@
                 "id": "e9ac42ea-42b6-4e67-8706-f0bf1afe80df",
                 "resourcePath": "views\\8a0b8166-62c5-4d6b-8f60-1bf064866337.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8fc94c15-ca35-4f3f-b48b-73573a903cd5",
+            "Value": {
+                "id": "fdf27547-6503-42c4-ab16-94c56328b792",
+                "resourcePath": "objects\\obj_enemy_parent\\obj_enemy_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8ff1f2fd-f909-45c1-ba12-4ea4b5ffe13c",
+            "Value": {
+                "id": "08387b3f-e3b9-4e65-b935-585ec0b1ea1e",
+                "resourcePath": "sprites\\spr_wolf\\spr_wolf.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "92801b4e-03d7-45c7-8438-ff8a5ee39441",
+            "Value": {
+                "id": "d8b6e754-f8b0-4560-a38e-99ed864bcc9b",
+                "resourcePath": "objects\\obj_enemy_wolf\\obj_enemy_wolf.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -239,11 +311,27 @@
             }
         },
         {
+            "Key": "9f95ae10-7996-4fc1-9459-a5ae8dfa1571",
+            "Value": {
+                "id": "3ab336fe-97cc-4151-82a9-d694269859b1",
+                "resourcePath": "objects\\obj_zombie\\obj_zombie.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a187ce28-290f-4488-90e7-64162479ad63",
             "Value": {
                 "id": "6e812fb4-4689-4cfe-bfad-87808bbabe9b",
                 "resourcePath": "views\\a187ce28-290f-4488-90e7-64162479ad63.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a5a47e73-e438-46c2-b914-dd9758f3fb67",
+            "Value": {
+                "id": "61de8527-6f5c-427c-8896-be348b67b5df",
+                "resourcePath": "objects\\obj_enemy_spawner\\obj_enemy_spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -332,6 +420,14 @@
                 "id": "584c2e03-974f-4a0f-a2cc-3383250b6976",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "e5042376-f56a-4134-a9ba-f184310caf79",
+            "Value": {
+                "id": "8f810aba-ce9e-41cd-906d-9ef034f6ec27",
+                "resourcePath": "sounds\\sfx_spike_trap\\sfx_spike_trap.yy",
+                "resourceType": "GMSound"
             }
         },
         {
