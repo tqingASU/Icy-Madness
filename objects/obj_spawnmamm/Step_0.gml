@@ -12,7 +12,7 @@ if(canSpawn && doSpawn)
 	pomX = irandom_range(ev_boundary + (self.sprite_width/2), room_width - ev_boundary - (self.sprite_width / 2))
 	pomY = irandom_range(ev_boundary + (self.sprite_height/2), room_height - ev_boundary - (self.sprite_height / 2))
 	
-	if place_free(pomX,pomY)
+	if position_empty(pomX,pomY)
 	{
 		var enemy = instance_create_layer(pomX, pomY, "PlayerLayer", obj_mammoth)
 			enemy.spawner = self

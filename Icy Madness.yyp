@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1ef95e11-1102-43d9-8d1c-abea488bdb82",
+            "Value": {
+                "id": "04b8e587-4bf8-4b94-a5e2-747b2bb566a0",
+                "resourcePath": "objects\\obj_collidable_mammoth\\obj_collidable_mammoth.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1fcc6acc-1bda-415a-ab4f-10c8eb720fa6",
             "Value": {
                 "id": "e06a5a89-12a1-4211-8db6-2857fa537758",

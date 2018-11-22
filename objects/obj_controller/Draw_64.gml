@@ -22,8 +22,8 @@ switch(room)
 	{
 		draw_set_color(c_black)
 		draw_set_halign(fa_center)
-		draw_text(camera_get_view_width(view_camera[0])/2, camera_get_view_height(view_camera[0])/2-30, "GAME OVER!")
-		draw_text(camera_get_view_width(view_camera[0])/2, (camera_get_view_height(view_camera[0])/2), "Final Score: " + string(score))
+		draw_text(camera_get_view_width(view_camera[0])/2, camera_get_view_height(view_camera[0])/2-40, "GAME OVER!")
+		draw_text(camera_get_view_width(view_camera[0])/2, (camera_get_view_height(view_camera[0])/2)-25, "Final Score: " + string(score))
 	}
 	break;
 	
