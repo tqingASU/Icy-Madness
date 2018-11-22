@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "2f275e69-c282-4986-b158-3f2acfe9f43d",
+            "Value": {
+                "id": "1cba73db-0601-453a-8fca-f3dcb0bec980",
+                "resourcePath": "sprites\\spr_deadmammoth\\spr_deadmammoth.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "30724636-bc08-4b46-b861-1419388f83f2",
             "Value": {
                 "id": "73de9f90-d74d-4e16-bea9-5d339e7e947d",
@@ -180,6 +188,14 @@
                 "id": "13724e5f-dd4b-4eca-aef0-55b5d68eefb3",
                 "resourcePath": "views\\5ee8ca15-164d-4229-b569-7032ef298d29.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "608b9b47-7207-42cc-966e-b3ccda22bc93",
+            "Value": {
+                "id": "d186daaf-f70c-445d-bf2e-fa052b925f62",
+                "resourcePath": "objects\\obj_mammoth_dead\\obj_mammoth_dead.yy",
+                "resourceType": "GMObject"
             }
         },
         {

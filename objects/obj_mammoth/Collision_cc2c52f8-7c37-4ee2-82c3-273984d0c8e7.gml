@@ -1,6 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-direction = -direction
+if other.visible
+   {
+   move_bounce_all(false);
+   }
+
 if(canDamage  = true)
 {
 	self.canDamage = false
