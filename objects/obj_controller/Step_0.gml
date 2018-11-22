@@ -3,6 +3,11 @@
 if(health <= 0 && game_state == 0)
 {
 	game_state = -1 //game over
+
+	pomX = camera_get_view_x(view_camera[0]) + camera_get_view_width(view_camera[0])/2
+	pomY = camera_get_view_y(view_camera[0]) + (camera_get_view_height(view_camera[0])/2)+40
+	
+	instance_create_layer(pomX,pomY,"PlayerLayer",but_playAgain)
 	alarm[0] = room_speed * 10;
 }
 
