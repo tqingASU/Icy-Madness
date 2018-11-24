@@ -15,33 +15,53 @@
             "m_owner": "92801b4e-03d7-45c7-8438-ff8a5ee39441"
         },
         {
-            "id": "813076cb-2fa7-4efe-b85c-a2c24839b07c",
+            "id": "c52d61d7-c2d3-4c2a-b766-e28b7b1696ff",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "collisionObjectId": "b4c5cea3-da79-4e49-a33a-0928bfdcb0bf",
             "enumb": 0,
-            "eventtype": 0,
+            "eventtype": 4,
             "m_owner": "92801b4e-03d7-45c7-8438-ff8a5ee39441"
         },
         {
-            "id": "b8de7dc4-e285-40f2-a13e-e661d37f333c",
+            "id": "fc07aba1-b1f5-4cbe-8090-0a8ab9c9654e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 7,
+            "collisionObjectId": "49ed53a3-53e0-4b3a-b168-8d5985d064a0",
+            "enumb": 0,
+            "eventtype": 4,
             "m_owner": "92801b4e-03d7-45c7-8438-ff8a5ee39441"
         },
         {
-            "id": "19e22198-4fce-46e0-83b1-cf8f5dcdaf21",
+            "id": "5b2f66ce-dc59-42bc-9f90-a7733e02b886",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
+            "m_owner": "92801b4e-03d7-45c7-8438-ff8a5ee39441"
+        },
+        {
+            "id": "89482371-552c-455f-a03b-254a1bc735ec",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "92801b4e-03d7-45c7-8438-ff8a5ee39441"
+        },
+        {
+            "id": "4f45bc5c-4d52-40a4-9667-781b4205f2a7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "1fcc6acc-1bda-415a-ab4f-10c8eb720fa6",
+            "enumb": 0,
+            "eventtype": 4,
             "m_owner": "92801b4e-03d7-45c7-8438-ff8a5ee39441"
         }
     ],
@@ -56,20 +76,12 @@
             "value": "True"
         },
         {
-            "id": "dcdb536f-8c08-4ba1-ab4f-e8f09f4314f0",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "8fc94c15-ca35-4f3f-b48b-73573a903cd5",
-            "propertyId": "8c29f681-91e8-473f-ab6d-4312ca00e0c1",
-            "value": "obj_enemy_spawner"
-        },
-        {
             "id": "ae9c381a-03f9-4220-b1ff-1c5011cbe053",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "8fc94c15-ca35-4f3f-b48b-73573a903cd5",
             "propertyId": "a588bab9-5715-47b0-b7bd-0de436f3b003",
-            "value": "150"
+            "value": "100"
         },
         {
             "id": "3a23fa53-9f13-4bc9-ba6c-2fda67d6e920",
@@ -77,23 +89,15 @@
             "mvc": "1.0",
             "objectId": "8fc94c15-ca35-4f3f-b48b-73573a903cd5",
             "propertyId": "1a0bef9e-4cfc-4b0b-85f5-3743d1566461",
-            "value": "5"
+            "value": "1"
         },
         {
-            "id": "7289606b-20aa-40fb-8bb7-d13b3578d1f3",
+            "id": "a7276d9d-9c08-401a-bae0-ecb97200e53b",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "8fc94c15-ca35-4f3f-b48b-73573a903cd5",
-            "propertyId": "949a03d9-46ea-4bcb-b679-ad251554873e",
-            "value": "5"
-        },
-        {
-            "id": "ad5db330-5c0b-4f86-b35d-4fcaadac6ed3",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "8fc94c15-ca35-4f3f-b48b-73573a903cd5",
-            "propertyId": "08662e93-9a8f-47cb-a013-8d0481344cfb",
-            "value": "5"
+            "propertyId": "8c29f681-91e8-473f-ab6d-4312ca00e0c1",
+            "value": "obj_spawnwolf"
         }
     ],
     "parentObjectId": "8fc94c15-ca35-4f3f-b48b-73573a903cd5",
