@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0c2acfe1-53cb-4817-bd20-346ad6a1e844",
+            "Value": {
+                "id": "9eb06323-69a1-43cf-883c-2d11ea7f7618",
+                "resourcePath": "rooms\\rm_iceage_level5\\rm_iceage_level5.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0e283b0c-ee35-4380-b80a-e30afa4db3a7",
             "Value": {
                 "id": "0beacb5c-5296-4853-8553-f52f73c7bcad",
