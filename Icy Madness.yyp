@@ -159,14 +159,6 @@
             }
         },
         {
-            "Key": "2f275e69-c282-4986-b158-3f2acfe9f43d",
-            "Value": {
-                "id": "1cba73db-0601-453a-8fca-f3dcb0bec980",
-                "resourcePath": "sprites\\spr_deadmammoth\\spr_deadmammoth.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "30724636-bc08-4b46-b861-1419388f83f2",
             "Value": {
                 "id": "73de9f90-d74d-4e16-bea9-5d339e7e947d",
