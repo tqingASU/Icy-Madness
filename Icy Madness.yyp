@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "7a8aa48e-546e-455d-92a3-d421bcfdd32b",
+            "Value": {
+                "id": "d0f7e36a-28c7-4f45-8b02-7b2e5fbc04c2",
+                "resourcePath": "rooms\\rm_iceage_level3\\rm_iceage_level3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "817ee2b4-b9e4-4885-8839-40a7af525c4e",
             "Value": {
                 "id": "800ad628-c51c-46bb-b3b7-ca90ab4d32a8",
@@ -530,7 +538,7 @@
             "Key": "c722cb8b-37eb-4039-850e-a56da9979f04",
             "Value": {
                 "id": "7b2230d9-d2ca-465a-9ce2-86982d83e5b6",
-                "resourcePath": "rooms\\rm_ice_age\\rm_ice_age.yy",
+                "resourcePath": "rooms\\rm_iceage_level4\\rm_iceage_level4.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -644,6 +652,14 @@
                 "id": "2ec1d3b7-c852-438d-a979-739f6522209e",
                 "resourcePath": "objects\\obj_spawnwolf\\obj_spawnwolf.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fcb14d62-4e77-4479-92a9-633b003c52b2",
+            "Value": {
+                "id": "1e7c5fb6-47f7-475a-887e-3c56eddb2433",
+                "resourcePath": "rooms\\rm_iceage_level2\\rm_iceage_level2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

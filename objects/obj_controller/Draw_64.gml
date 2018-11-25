@@ -2,7 +2,7 @@
 // You can write your code in this editor
 switch(room)
 {
-	case rm_ice_age:
+	case rm_iceage_level2:
 	if(game_state == 0 && instance_exists(obj_player))
 	{
 		draw_set_color(c_black)
