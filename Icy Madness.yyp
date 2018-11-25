@@ -519,6 +519,14 @@
             }
         },
         {
+            "Key": "bb3aecd1-16a8-452c-8646-8a7dd6aab80a",
+            "Value": {
+                "id": "dc917b27-0bd6-4b86-9f5c-f26ba4d26372",
+                "resourcePath": "rooms\\rm_win\\rm_win.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "beb900b2-8abd-4299-91e0-ad19ee57deb3",
             "Value": {
                 "id": "04005349-32e9-462d-aa76-81a0a0322983",
