@@ -8,13 +8,14 @@ switch(room)
 		draw_set_color(c_black)
 		draw_text(100,80,"Score: " + string(score))
 		draw_text(100,100,"Health: " + string(health))
+		draw_text(100,120,"Armor: " + string(obj_player.armor))
 		if(obj_player.reloading = true)
 		{
-			draw_text(100,120,"Clip: reloading")
+			draw_text(100,140,"Clip: reloading")
 		}
 		else
 		{
-			draw_text(100,120,"Clip: " + string(obj_player.clip))
+			draw_text(100,140,"Clip: " + string(obj_player.clip))
 		}
 		
 	}
@@ -32,13 +33,14 @@ switch(room)
 		draw_set_color(c_black)
 		draw_text(100,80,"Score: " + string(score))
 		draw_text(100,100,"Health: " + string(health))
+		draw_text(100,120,"Armor: " + string(obj_player.armor))
 		if(obj_player.reloading = true)
 		{
-			draw_text(100,120,"Clip: reloading")
+			draw_text(100,140,"Clip: reloading")
 		}
 		else
 		{
-			draw_text(100,120,"Clip: " + string(obj_player.clip))
+			draw_text(100,140,"Clip: " + string(obj_player.clip))
 		}
 		
 	}
@@ -56,13 +58,14 @@ switch(room)
 		draw_set_color(c_black)
 		draw_text(100,80,"Score: " + string(score))
 		draw_text(100,100,"Health: " + string(health))
+		draw_text(100,120,"Armor: " + string(obj_player.armor))
 		if(obj_player.reloading = true)
 		{
-			draw_text(100,120,"Clip: reloading")
+			draw_text(100,140,"Clip: reloading")
 		}
 		else
 		{
-			draw_text(100,120,"Clip: " + string(obj_player.clip))
+			draw_text(100,140,"Clip: " + string(obj_player.clip))
 		}
 		
 	}
@@ -80,15 +83,15 @@ switch(room)
 		draw_set_color(c_black)
 		draw_text(100,80,"Score: " + string(score))
 		draw_text(100,100,"Health: " + string(health))
+		draw_text(100,120,"Armor: " + string(obj_player.armor))
 		if(obj_player.reloading = true)
 		{
-			draw_text(100,120,"Clip: reloading")
+			draw_text(100,140,"Clip: reloading")
 		}
 		else
 		{
-			draw_text(100,120,"Clip: " + string(obj_player.clip))
+			draw_text(100,140,"Clip: " + string(obj_player.clip))
 		}
-		
 	}
 	else
 	{
@@ -104,13 +107,14 @@ switch(room)
 		draw_set_color(c_black)
 		draw_text(100,80,"Score: " + string(score))
 		draw_text(100,100,"Health: " + string(health))
+		draw_text(100,120,"Armor: " + string(obj_player.armor))
 		if(obj_player.reloading = true)
 		{
-			draw_text(100,120,"Clip: reloading")
+			draw_text(100,140,"Clip: reloading")
 		}
 		else
 		{
-			draw_text(100,120,"Clip: " + string(obj_player.clip))
+			draw_text(100,140,"Clip: " + string(obj_player.clip))
 		}
 		
 	}

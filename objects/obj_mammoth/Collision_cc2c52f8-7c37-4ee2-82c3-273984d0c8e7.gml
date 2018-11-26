@@ -5,7 +5,13 @@
 if(canDamage  = true)
 {
 	self.canDamage = false
-	health -= 5
+	pomX = 5
+	while(obj_player.armor > 0 && pomX > 0)
+	{
+		obj_player.armor -= 1
+		pomX -= 1
+	}
+	health -= pomX
 	alarm[1] = room_speed *2
 
 }
