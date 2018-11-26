@@ -52,9 +52,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "5",
+            "value": "10",
             "varName": "maxSpawns",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "718ebf6b-a1cd-4511-b2bb-f2c3a522e220",
