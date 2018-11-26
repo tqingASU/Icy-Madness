@@ -8,6 +8,7 @@ while(obj_player.armor > 0 && pomX > 0)
 		pomX -= 1
 	}
 health -= pomX
+exit;
 /*pdir = point_direction(other.x, other.y, x, y);
 
 move_contact_solid(pdir, 50);
