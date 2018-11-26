@@ -14,7 +14,7 @@ if(canSpawn && doSpawn)
 	
 	if position_empty(pomX,pomY)
 	{
-		var enemy = instance_create_layer(pomX, pomY, "PlayerLayer", obj_mammoth)
+		var enemy = instance_create_layer(pomX, pomY, "MammothLayer", obj_mammoth)
 			enemy.spawner = self
 		
 		self.spawnCount += 1

@@ -52,9 +52,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "5",
+            "value": "3",
             "varName": "maxSpawns",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "16115b68-6b08-4df2-a35a-1f7a1323d516",
@@ -114,6 +114,6 @@
         }
     ],
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
-    "visible": true
+    "spriteId": "9b82d284-65d8-45c3-81f9-0a6ca09a7b3a",
+    "visible": false
 }

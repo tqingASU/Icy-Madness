@@ -143,7 +143,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "True",
-            "varName": "canDamage1",
+            "varName": "canDamage",
             "varType": 3
         },
         {
