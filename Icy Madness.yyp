@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1506908d-91ee-4fea-997a-b3f1286fad2f",
+            "Value": {
+                "id": "64a38d15-f3f5-4c06-bdb6-7dae12973138",
+                "resourcePath": "sprites\\spr_spawnzomb\\spr_spawnzomb.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "188e76f1-9f44-43af-8abf-038a13224b8c",
             "Value": {
                 "id": "ae93a502-5039-4985-824b-017100b7b1fc",
@@ -163,6 +171,14 @@
             "Value": {
                 "id": "a80eb702-a132-4d6b-b9ed-ef853a3a045a",
                 "resourcePath": "views\\2e6a3f9e-a962-4e2f-9c64-d7a6d5aab5eb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2eb99837-a0ad-4a44-b920-2bc9d07cfadd",
+            "Value": {
+                "id": "2fba70e8-af37-4637-861a-759c90f10d5e",
+                "resourcePath": "views\\2eb99837-a0ad-4a44-b920-2bc9d07cfadd.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -279,6 +295,14 @@
             }
         },
         {
+            "Key": "6b625b7c-9641-4bc1-9b29-c8c93d7b9592",
+            "Value": {
+                "id": "c58b446a-0a83-4a9a-80d5-0a6d2c1f1b1f",
+                "resourcePath": "sprites\\spr_spawnwolf\\spr_spawnwolf.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6c7dd22d-0929-4c13-983c-08cba5b854b2",
             "Value": {
                 "id": "873e8523-2107-415d-86c6-e81acdce1ee1",
@@ -332,6 +356,14 @@
                 "id": "d0f7e36a-28c7-4f45-8b02-7b2e5fbc04c2",
                 "resourcePath": "rooms\\rm_iceage_level3\\rm_iceage_level3.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "80999d02-4692-43cb-a286-d4e26d020d6f",
+            "Value": {
+                "id": "a2559f79-fd8b-426e-88e2-5ee04e6e11e8",
+                "resourcePath": "sprites\\spr_spawn_items\\spr_spawn_items.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -451,6 +483,14 @@
             "Value": {
                 "id": "50728c62-c4a4-4896-9b95-aa7bf4dc7008",
                 "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9b82d284-65d8-45c3-81f9-0a6ca09a7b3a",
+            "Value": {
+                "id": "545e5fe5-6692-48ae-bb20-3cd8defc29a2",
+                "resourcePath": "sprites\\spr_spawnmamm\\spr_spawnmamm.yy",
                 "resourceType": "GMSprite"
             }
         },
