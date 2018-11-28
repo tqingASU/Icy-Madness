@@ -47,7 +47,7 @@ switch(room)
 		{
 			draw_text(100,140,"Clip: " + string(obj_player.clip))
 		}
-		if(score >= 4000)
+		if(score >= 6000)
 		{
 			draw_set_halign(fa_center)
 			draw_text(500,700,"Find a teleport!")
@@ -76,7 +76,7 @@ switch(room)
 		{
 			draw_text(100,140,"Clip: " + string(obj_player.clip))
 		}
-		if(score >= 6000)
+		if(score >= 10000)
 		{
 			draw_set_halign(fa_center)
 			draw_text(500,700,"Find a teleport!")
@@ -106,7 +106,7 @@ switch(room)
 		{
 			draw_text(100,140,"Clip: " + string(obj_player.clip))
 		}
-		if(score >= 8000)
+		if(score >= 14000)
 		{
 			draw_set_halign(fa_center)
 			draw_text(500,700,"Find a teleport!")
@@ -135,7 +135,7 @@ switch(room)
 		{
 			draw_text(100,140,"Clip: " + string(obj_player.clip))
 		}
-		if(score >= 10000)
+		if(score >= 18000)
 		{
 			draw_set_halign(fa_center)
 			draw_text(500,700,"Find a teleport!")

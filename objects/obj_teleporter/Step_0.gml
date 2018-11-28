@@ -10,14 +10,6 @@ switch(room){
 		}
 	break;
 	case rm_iceage_level2:
-		if(score > 4000){
-			image_index = 1;
-		}
-		else{
-			image_index = 0;
-		}
-	break;
-	case rm_iceage_level3:
 		if(score > 6000){
 			image_index = 1;
 		}
@@ -25,8 +17,16 @@ switch(room){
 			image_index = 0;
 		}
 	break;
+	case rm_iceage_level3:
+		if(score > 10000){
+			image_index = 1;
+		}
+		else{
+			image_index = 0;
+		}
+	break;
 	case rm_iceage_level4:
-		if(score > 8000){
+		if(score > 14000){
 			image_index = 1;
 		}
 		else{
@@ -34,7 +34,7 @@ switch(room){
 		}
 	break;
 	case rm_iceage_level5:
-		if(score > 10000){
+		if(score > 18000){
 			image_index = 1;
 		}
 		else{
