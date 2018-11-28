@@ -215,6 +215,22 @@
             }
         },
         {
+            "Key": "43c30a09-e426-4dbe-85ad-e19e0c58642c",
+            "Value": {
+                "id": "8e69a369-d900-4bcf-88de-fc1df6425aab",
+                "resourcePath": "sprites\\spr_button_start\\spr_button_start.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "49958f4c-4049-4efd-8d66-49426fc756d0",
+            "Value": {
+                "id": "1987ac21-6688-40bc-afca-59c868b23251",
+                "resourcePath": "objects\\but_start\\but_start.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "49ce576b-f66d-4dcc-92c4-998c01c17ca2",
             "Value": {
                 "id": "e49e5243-fcd0-4a29-9104-7f1b78410a72",
