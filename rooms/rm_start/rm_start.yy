@@ -7,7 +7,7 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "890295c4-76d4-400a-9f3d-b1f68f564e68"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_168BACA4","id": "890295c4-76d4-400a-9f3d-b1f68f564e68","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_168BACA4","objId": "49958f4c-4049-4efd-8d66-49426fc756d0","properties": null,"rotation": 0,"scaleX": 4,"scaleY": 2.5,"mvc": "1.0","x": 384,"y": 480}
             ],
             "layers": [
 
