@@ -17,6 +17,11 @@ switch(room)
 		{
 			draw_text(100,140,"Clip: " + string(obj_player.clip))
 		}
+		if(score >=2000)
+		{
+			draw_set_halign(fa_center)
+			draw_text(500,700,"Find a teleport!")
+		}
 		
 	}
 	else
@@ -42,7 +47,11 @@ switch(room)
 		{
 			draw_text(100,140,"Clip: " + string(obj_player.clip))
 		}
-		
+		if(score >= 6000)
+		{
+			draw_set_halign(fa_center)
+			draw_text(500,700,"Find a teleport!")
+		}
 	}
 	else
 	{
@@ -66,6 +75,11 @@ switch(room)
 		else
 		{
 			draw_text(100,140,"Clip: " + string(obj_player.clip))
+		}
+		if(score >= 10000)
+		{
+			draw_set_halign(fa_center)
+			draw_text(500,700,"Find a teleport!")
 		}
 		
 	}
@@ -92,6 +106,11 @@ switch(room)
 		{
 			draw_text(100,140,"Clip: " + string(obj_player.clip))
 		}
+		if(score >= 14000)
+		{
+			draw_set_halign(fa_center)
+			draw_text(500,700,"Find a teleport!")
+		}
 	}
 	else
 	{
@@ -115,6 +134,11 @@ switch(room)
 		else
 		{
 			draw_text(100,140,"Clip: " + string(obj_player.clip))
+		}
+		if(score >= 18000)
+		{
+			draw_set_halign(fa_center)
+			draw_text(500,700,"Find a teleport!")
 		}
 		
 	}

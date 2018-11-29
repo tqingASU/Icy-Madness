@@ -742,25 +742,6 @@
             }
         },
         {
-            "Key": "74448320-e1c9-4620-ad2a-cfa7c73b6b16",
-            "Value": {
-                "id": "a114189d-b6b2-49b6-a6c4-a60772b4840a",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/spr_winroom\/spr_winroom.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7446f88e-665d-457f-acea-c7a2751dde77",
             "Value": {
                 "id": "c7817c3d-e324-40b6-b998-1cdbc3f95ab6",
