@@ -839,6 +839,14 @@
             }
         },
         {
+            "Key": "fc052997-48b8-4b99-a289-b9acc5cc7f1a",
+            "Value": {
+                "id": "e33f5a65-154e-48be-b457-c5219450154d",
+                "resourcePath": "sprites\\bcg_win\\bcg_win.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fcb14d62-4e77-4479-92a9-633b003c52b2",
             "Value": {
                 "id": "1e7c5fb6-47f7-475a-887e-3c56eddb2433",
