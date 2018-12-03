@@ -1,3 +1,2 @@
 image_speed = 0
-image_index = 2
-pressed = false
+image_index = 0
