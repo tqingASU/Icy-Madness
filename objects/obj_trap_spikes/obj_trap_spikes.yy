@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 2,
             "m_owner": "1fcc6acc-1bda-415a-ab4f-10c8eb720fa6"
+        },
+        {
+            "id": "e8b5b850-97cb-42b5-9340-bd0ad77de8ff",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "8fc94c15-ca35-4f3f-b48b-73573a903cd5",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "1fcc6acc-1bda-415a-ab4f-10c8eb720fa6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -66,7 +76,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0.2",
+            "value": "0.5",
             "varName": "damageDelay",
             "varType": 0
         }
