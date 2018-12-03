@@ -4,6 +4,5 @@ if(canDamage == true){
 	canDamage = false;
 	audio_play_sound(sfx_spike_trap,10,0);
 	health -= 5;
-	obj_enemy_parent.hitPoints -= 1
 	alarm[0] = damageDelay*room_speed;
 }

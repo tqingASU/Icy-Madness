@@ -1,4 +1,7 @@
-/// @description Insert description here
+/// @description collisionTrue alarm
 // You can write your code in this editor
-canDamage = true
-direction = -direction
+if(collisionTrue)
+{
+	collisionTrue = false
+}
+alarm[1] = room_speed * 2

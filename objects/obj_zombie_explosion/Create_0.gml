@@ -6,6 +6,12 @@ if(instance_exists(obj_player)){
 	self.image_angle = direction-90;
 	if (distance_to_object(obj_player) < 60)
 	{
-		health -= 25
+		pomX = 25
+		while(obj_player.armor > 0 && pomX > 0)
+		{
+			obj_player.armor -= 1
+			pomX -= 1
+		}
+		health -= pomX
 	}
 }

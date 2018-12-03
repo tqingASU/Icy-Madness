@@ -131,6 +131,34 @@
             "value": "False",
             "varName": "collisionTrue",
             "varType": 3
+        },
+        {
+            "id": "abe08c81-b503-434f-8b84-71826b8d8094",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "canDamage",
+            "varType": 3
+        },
+        {
+            "id": "831a968a-eb8c-4471-951c-87c8b1e32a36",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0.5",
+            "varName": "damageDelay",
+            "varType": 0
         }
     ],
     "solid": true,

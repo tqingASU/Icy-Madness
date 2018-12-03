@@ -3,8 +3,8 @@
    
 if(instance_exists(obj_player))
 {
-	//if(!place_meeting(x+hspeed, y+vspeed, obj_enemy_parent))
-	//{
+	if(!collisionTrue)
+	{
 		if(distance_to_object(obj_player)>=150)
 		{
 			zPom = random_range(1,2)
@@ -23,13 +23,14 @@ if(instance_exists(obj_player))
 		else //if(distance_to_object(obj_player) > 0 && distance_to_object(obj_player) < 100)
 		{
 			self.image_angle = direction-90;
-			//mp_potential_settings(180, 5, 5, 0)
-			if(distance_to_object(obj_player)!=sprite_width)
-			{
-				mp_potential_step(obj_player.x, obj_player.y, 10, false);
-			}
-		
+			mp_potential_step(obj_player.x, obj_player.y, 10, false);
 		}
+	}
+	else
+	{
+		move_bounce_all(true)
+	}
+	
 	//}
 	//else
 	//{
@@ -38,4 +39,5 @@ if(instance_exists(obj_player))
 	//	mp_potential_step(obj_player.x, obj_player.y, zPom, false);
 	//}
 	//
+	
 }

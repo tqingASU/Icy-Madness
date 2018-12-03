@@ -85,5 +85,8 @@ else
 	image_speed = 1
 }
 
-
+if(armor == 0)
+{
+	sprite_index = spr_player_red
+}
 

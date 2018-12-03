@@ -73,6 +73,26 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "b857ffcd-77ac-4081-b67a-a8a62bf45af4"
+        },
+        {
+            "id": "c188bf74-a6df-4712-be9c-bd0355a93ede",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "ede09924-616a-4d6d-866e-5131b2a79933",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "b857ffcd-77ac-4081-b67a-a8a62bf45af4"
+        },
+        {
+            "id": "c04ca456-3701-4396-bf67-bea5063a41b5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "84190891-8ead-4fa1-98a1-890e221e0a43",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "b857ffcd-77ac-4081-b67a-a8a62bf45af4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -217,6 +237,34 @@
             "value": "False",
             "varName": "reloading",
             "varType": 3
+        },
+        {
+            "id": "53fbd3cd-fa38-4289-8d6e-b791c74604b5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "healthMax",
+            "varType": 1
+        },
+        {
+            "id": "7c6e26ee-26cf-49ff-a858-ad6ce59d8ceb",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "armor",
+            "varType": 0
         }
     ],
     "solid": false,
