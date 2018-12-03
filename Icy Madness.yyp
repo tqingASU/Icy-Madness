@@ -759,6 +759,14 @@
             }
         },
         {
+            "Key": "ebbdc599-3bd3-4afb-a6b8-c0eeb5414380",
+            "Value": {
+                "id": "0601f01f-8836-4909-a740-4c7ddade33e6",
+                "resourcePath": "sprites\\spr_button_startGreen\\spr_button_startGreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ec71e9be-42d7-40b2-b8ec-79b412d39ab8",
             "Value": {
                 "id": "2574eebf-e365-4a71-a468-35455cac97e4",
