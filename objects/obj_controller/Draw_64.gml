@@ -151,10 +151,10 @@ switch(room)
 	}
 	break;
 	
-	case rm_start:
+	case rm_menu:
 	
 		break;
-	case rm_win:
+	case rm_win1:
 	
 		break;
 }
