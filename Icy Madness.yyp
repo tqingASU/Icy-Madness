@@ -927,7 +927,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_button_options\/obj_button_options.yy",
+                "resourcePath": "objects\/obj_button_controls\/obj_button_controls.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1687,7 +1687,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/spr_options\/spr_options.yy",
+                "resourcePath": "sprites\/spr_controls1\/spr_controls1.yy",
                 "resourceType": "GMSprite"
             }
         },
