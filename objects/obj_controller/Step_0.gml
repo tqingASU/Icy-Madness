@@ -13,4 +13,3 @@ if(health <= 0 && game_state == 0)
 						
 	alarm[0] = room_speed * 15;
 }
-
